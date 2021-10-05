@@ -1,0 +1,19 @@
+name: SQL Query
+description: Propose a new query
+title: "Query: <name-of-the-query>"
+body:
+  - type: textarea
+    id: requesttype
+    attributes:
+      label: ⭐ Request Type
+      description: Describe the query you want to add.
+    validations:
+      required: true
+  - type: textarea
+    id: addtionalinfo
+    attributes:
+      label: ❌ Additional Info
+      description: |
+        If you have any additional information that you think will help the community.
+    validations:
+      required: false
