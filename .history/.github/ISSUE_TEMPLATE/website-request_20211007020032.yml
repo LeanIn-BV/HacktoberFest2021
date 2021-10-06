@@ -1,0 +1,19 @@
+name: Website Changes
+description: Propose an issue for the website
+title: "Issue: <name-of-the-issue>"
+body:
+  - type: textarea
+    id: requesttype
+    attributes:
+      label: ⭐ Request Type
+      description: Describe the change you want to add.
+    validations:
+      required: true
+  - type: textarea
+    id: addtionalinfo
+    attributes:
+      label: ❌ Additional Info
+      description: |
+        If you have any additional information that you think will help the community.
+    validations:
+      required: false
