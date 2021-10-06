@@ -18,7 +18,7 @@ https://hacktoberfest.digitalocean.com/</p>
 ##### Or
 * Contribute to the Lean In website by raising required issues.
 * Make sure your follow the below steps.
-* Also read the [Contributor.md](https://github.com/LeanIn-BV/HacktoberFest2021/blob/main/Contributor.md) for more rules regarding the contribution.
+* Also read the [Contribute.md](https://github.com/LeanIn-BV/HacktoberFest2021/blob/main/Contribute.md) for more rules regarding the contribution.
 -----
 
 ### Process are as follows :- 
