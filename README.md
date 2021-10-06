@@ -28,6 +28,7 @@ https://hacktoberfest.digitalocean.com/</p>
 ------
 ### How to Contribute to this repository
 
+* Star this repository 🌟
 * Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone the forked repository to your local machine.
 ```markdown
