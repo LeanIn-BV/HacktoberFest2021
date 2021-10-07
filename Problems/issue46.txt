@@ -1,0 +1,11 @@
+Query 50
+Issue #46
+Write an SQL query to fetch the names of workers who earn the highest salary.
+
+Solution:-> 
+Here, consider the table 'workers' having 'Name' and 'salary' column.
+
+So the query is:
+
+SELECT 'Name' FROM workers WHERE salary = (SELECT MAX(salary) FROM workers); 
+This will return the employee names for the workers who earns the highest salary.
