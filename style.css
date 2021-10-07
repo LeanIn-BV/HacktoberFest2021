@@ -549,18 +549,11 @@ body {
     font-weight: 500;
   }
 
-  .navbar .logo h1 {
+  .navbar-brand h1 {
     position: absolute;
     top: 5px;
     right: 15px;
     font-size: 2rem;
-    float: right;
-  }
-
-  .navbar .logo img {
-    width: 10%;
-    height: 10%;
-    border-radius: 50%;
   }
 
   .navbar-container input[type="checkbox"]:checked ~ .menu-items {
