@@ -22,7 +22,7 @@
 
 ### Contributing to the SQL Issues.
 
-- There are SQL queries given in the issues domain, assign yourself an issue and work on the query.
+- There are SQL queries given in the issues domain, raise required issues and work on the query.
 - Add the solution to the query as a markdown file to problems folder.
 - Make sure your solution file is in a folder with the following format -> Probelms/Issue-name/Issue-name.md
 
