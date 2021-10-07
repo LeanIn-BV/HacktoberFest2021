@@ -1,0 +1,11 @@
+Query - 14
+
+Issue 34
+
+Question:
+Write an SQL query to print details of workers excluding first names, “Vipul” and “Satish” from Worker table.
+
+
+Solution:
+SELECT * from Worker WHERE First_Name not in('Vipul','Satish');
+
