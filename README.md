@@ -12,13 +12,13 @@ https://hacktoberfest.digitalocean.com/</p>
 -----
 
 ### How can you contribute?⚠️
-* Contribute to the LeanIn website by raising required issues.
-* Make sure your follow the below steps.
+* Contribute to the LeanIn website (index.html and style.css) by raising required/relevant issues yourself.
+* Make sure you follow the below steps.
 * Also read the [Contribute.md](https://github.com/LeanIn-BV/HacktoberFest2021/blob/main/Contribute.md) for more rules regarding the contribution.
 ##### Or
-* There are SQL queries given in the issues domain, assign yourself an issue and work on the query.
+* There are SQL queries given in the issues domain, assign yourself issues and work on the query.
 * Add the solution to the query as a markdown file to problems folder.
-* Make sure your solution file is in a folder with the following format -> Probelms/Issue-name/Issue-name.md
+* Make sure your solution file is in a folder with the following format -> Problems/Issue-name/Issue-name.md
 
 -----
 
@@ -58,4 +58,4 @@ git push origin branch-name
 
 * **Make Sure you commit your changes in a new branch.**
 * **Make Sure you Give proper name to your files describing the addition.**
-* **Also Make Sure you comment your code whereever necessary.**
+* **Also Make Sure you comment your code wherever necessary.**
