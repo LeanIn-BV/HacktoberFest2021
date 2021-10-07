@@ -1,0 +1,6 @@
+Query 21 
+Issue #48
+Write an SQL query to fetch the count of employees working in the department ‘Admin’.
+
+Solution:-> 
+SELECT COUNT(*) FROM worker WHERE DEPARTMENT = 'Admin';
