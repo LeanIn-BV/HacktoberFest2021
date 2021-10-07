@@ -12,7 +12,7 @@ https://hacktoberfest.digitalocean.com/</p>
 -----
 
 ### How can you contribute?⚠️
-* Contribute to the LeanIn website (index.html and style.css) by raising a required/relevant issues yourself.
+* Contribute to the LeanIn website (index.html and style.css) by raising required/relevant issues yourself.
 * Make sure you follow the below steps.
 * Also read the [Contribute.md](https://github.com/LeanIn-BV/HacktoberFest2021/blob/main/Contribute.md) for more rules regarding the contribution.
 ##### Or
