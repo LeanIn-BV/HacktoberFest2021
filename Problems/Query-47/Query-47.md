@@ -1,0 +1,4 @@
+## SELECT SALARY
+## FROM Worker
+## ORDER BY SALARY ASC
+## LIMIT 3;
