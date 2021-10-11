@@ -1,0 +1,1 @@
+Select Top 50 Percent * From Table;
