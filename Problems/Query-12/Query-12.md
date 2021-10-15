@@ -1,0 +1,1 @@
+select * from Worker order by FIRST_NAME asc,DEPARTMENT desc;
