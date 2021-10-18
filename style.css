@@ -382,6 +382,7 @@ body {
 .contact-container {
   display: flex;
   background: #fff;
+  margin: auto;
 }
 
 .contact-img {
@@ -390,8 +391,8 @@ body {
 
 .contact-img img {
   display: block;
-  height: 400px;
-  width: 100%;
+  height: fit-content;
+  width: fit-content;
   object-position: center;
   object-fit: cover;
 }
@@ -407,7 +408,7 @@ body {
   width: 100%;
   border: none;
   border-bottom: 2px solid #ddd;
-  padding: 1rem 0;
+  padding: 1rem 0.5rem;
   box-shadow: none;
   outline: none;
   margin-bottom: 1rem;
@@ -422,7 +423,7 @@ body {
   border-bottom: 2px solid #ddd;
   color: #444;
   outline: none;
-  padding: 1rem 0;
+  padding: 1rem 0.5rem;
   resize: none;
 }
 
@@ -579,8 +580,8 @@ body {
     font-size: 65%;
   }
 
-  .navbar .menu-items li{
-      font-size: 1.6rem;
+  .navbar .menu-items li {
+    font-size: 1.6rem;
   }
 
   .testimonial-container {
