@@ -640,3 +640,47 @@ body {
     height: 50vmax;
   }
 }
+
+#contactus {
+  width: 50%;
+  font-family: "Ubuntu";
+  font-size: 15px;
+  text-align: center;
+  line-height: 45px;
+  margin-left: 25%;
+}
+
+.contact {
+  padding: 45px;
+}
+
+.contact i {
+  color: black;
+}
+
+
+#fb:hover {
+  color: blue;
+}
+
+#insta:hover {
+  color: rgb(223, 31, 63);
+}
+
+#tweet:hover {
+  color: rgb(0, 114, 185);
+}
+
+#linkedin:hover {
+  color: rgb(5, 5, 124);
+}
+
+#github:hover {
+  color: black;
+}
+
+#mail:hover {
+  color: rgb(158, 17, 17);
+}
+
+
