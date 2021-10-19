@@ -73,6 +73,23 @@ body {
   align-items: center;
 }
 
+.navbar-brand h1 {
+  /* Restaurant name */
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0.75;
+}
+.navbar-brand a:hover,
+.navbar-brand a:focus,
+.navbar-brand a {
+  text-decoration: none;
+}
+
 .menu-items {
   order: 2;
   display: flex;
@@ -445,6 +462,7 @@ body {
   font-weight: 500;
   color: #fff;
   background: rgb(65, 65, 65);
+  padding-bottom: 10px;
 }
 
 /* ......../ media query /.......... */
@@ -531,7 +549,7 @@ body {
     font-weight: 500;
   }
 
-  .logo {
+  .navbar-brand h1 {
     position: absolute;
     top: 5px;
     right: 15px;
@@ -579,8 +597,8 @@ body {
     font-size: 65%;
   }
 
-  .navbar .menu-items li{
-      font-size: 1.6rem;
+  .navbar .menu-items li {
+    font-size: 1.6rem;
   }
 
   .testimonial-container {
