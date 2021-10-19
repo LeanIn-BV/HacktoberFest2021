@@ -20,7 +20,7 @@ body {
 
 .container {
   max-width: 1200px;
-  width: 90%;
+  width: 100%;
   margin: auto;
 }
 
@@ -35,7 +35,7 @@ body {
   text-transform: uppercase;
   font-weight: small;
 }
-
+.pointer {cursor: pointer;}
 .btn-primary {
   color: #fff;
   background: #16a083;
@@ -63,11 +63,17 @@ body {
   color: #000;
   opacity: 0.85;
   height: 50px;
+  
+  
+   
   z-index: 12;
 }
 
 .navbar-container {
   display: flex;
+  
+  margin-left: 2rem;
+ 
   justify-content: space-between;
   height: 64px;
   align-items: center;
@@ -81,7 +87,7 @@ body {
 .menu-items li {
   list-style: none;
   margin-left: 1.5rem;
-  margin-bottom: 0.5rem;
+   margin-bottom: 0.5rem;
   font-size: 1.2rem;
 }
 
@@ -101,6 +107,7 @@ body {
   order: 1;
   font-size: 2.3rem;
   margin-bottom: 0.5rem;
+   
 }
 
 /* ............//// Showcase styling ////......... */
