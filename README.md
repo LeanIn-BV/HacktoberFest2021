@@ -1,6 +1,27 @@
-# ✨ HacktoberFest2021 ✨
+<div align="center">
+  
+[![Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-blue.svg?style=flat&logo=github)](https://github.com/LeanIn-BV)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LeanIn-BV/HacktoberFest2021)
+![Lines of code](https://img.shields.io/tokei/lines/github/LeanIn-BV/HacktoberFest2021?color=red&label=Lines%20of%20Code)
+![License](https://img.shields.io/badge/License-Apache-red.svg)
+![Stars](https://img.shields.io/github/stars/LeanIn-BV/HacktoberFest2021?style=flat&logo=github)
+![Forks](https://img.shields.io/github/forks/LeanIn-BV/HacktoberFest2021?style=flat&logo=github)
 
-![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+  ![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+ </div>
+ 
+ <div align="center">
+  <img src="https://forthebadge.com/images/badges/for-you.svg" />
+  <img src="https://forthebadge.com/images/badges/uses-html.svg" alt="html">
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="markdown">
+  <img src="https://forthebadge.com/images/badges/uses-css.svg" alt="css">
+  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="os">
+  <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check">
+  <img src="https://forthebadge.com/images/badges/uses-badges.svg" alt="bagdes">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="love">
+  <img src="" alt="">
+  <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+</div>
 
 ## (☞ﾟヮﾟ)☞ Contributing to hacktoberfest 2021
 
@@ -14,7 +35,7 @@ https://hacktoberfest.digitalocean.com/</p>
 ### How can you contribute?⚠️
 * Contribute to the LeanIn website (index.html and style.css) by raising required/relevant issues yourself.
 * Make sure you follow the below steps.
-* Also read the [Contribute.md](https://github.com/LeanIn-BV/HacktoberFest2021/blob/main/Contribute.md) for more rules regarding the contribution.
+* Also read the [Contributing.md](https://github.com/LeanIn-BV/HacktoberFest2021/blob/main/Contributing.md) for more rules regarding the contribution.
 ##### Or
 * There are SQL queries given in the issues domain, assign yourself issues and work on the query.
 * Add the solution to the query as a markdown file to problems folder.
