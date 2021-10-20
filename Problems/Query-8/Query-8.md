@@ -1,0 +1,1 @@
+Select distinct length(DEPARTMENT) from Worker;
