@@ -390,7 +390,7 @@ body {
 
 .contact-img img {
   display: block;
-  height: 400px;
+  height: 500px;
   width: 100%;
   object-position: center;
   object-fit: cover;
@@ -410,9 +410,11 @@ body {
   padding: 1rem 0;
   box-shadow: none;
   outline: none;
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
   color: #444;
   font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
 }
 
 .form-container textarea {
@@ -424,6 +426,10 @@ body {
   outline: none;
   padding: 1rem 0;
   resize: none;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+ 
 }
 
 .form-container h2 {
@@ -431,10 +437,12 @@ body {
   font-weight: 500;
   color: #444;
   margin-bottom: 1rem;
-  margin-top: -1.2rem;
+  /* margin-top: -1.2rem; */
+  margin-top: 45px;
 }
 
 .form-container a {
+  margin-top: 35px;
   font-size: 1.3rem;
 }
 
