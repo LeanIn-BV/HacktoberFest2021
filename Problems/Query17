@@ -1,3 +1,3 @@
 Request: Write an SQL query to print details of the Workers whose FIRST_NAME ends with ‘a’.
 
-Query: SELECT * FROM Worker WHERE FIRST_NAME LIKE "%a"
+Query: SELECT * FROM Worker WHERE FIRST_NAME LIKE '%a'
