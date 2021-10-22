@@ -32,12 +32,12 @@ body {
   cursor: pointer;
   outline: none;
   margin-top: 1em;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-weight: small;
 }
 
 .btn-primary {
-  color: #fff;
+  color: #ffff;
   background: #16a083;
 }
 
@@ -59,7 +59,7 @@ body {
   box-shadow: 0px 5px 10px 0px #aaa;
   position: fixed;
   width: 100%;
-  background: #fff;
+  background: #ffff;
   color: #000;
   opacity: 0.85;
   height: 50px;
