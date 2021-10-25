@@ -329,43 +329,43 @@ body {
 
 /* ........./ Testimonial /.......... */
 
-#testimonials {
+#Founders {
   padding: 5rem 0;
   background: rgba(243, 243, 243);
 }
 
-.testimonial-title {
+.Founders-title {
   text-align: center;
   font-size: 2.8rem;
   font-weight: 400;
   color: #555;
 }
 
-.testimonial-container {
+.Founder-container {
   display: flex;
   justify-content: space-between;
   font-size: 1.4rem;
   padding: 1rem;
 }
 
-.testimonial-box .checked {
+.Founder-box .checked {
   color: #ff9529;
 }
 
-.testimonial-box .testimonial-text {
+.Founder-box .Founder-text {
   margin: 1rem 0;
   color: #444;
 }
 
-.testimonial-box {
+.Founder-box {
   text-align: center;
   padding: 1rem;
 }
 
-.customer-photo img {
+.Founder-photo img {
   display: block;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 230px;
   object-fit: cover;
   object-position: center;
   border-radius: 50%;
