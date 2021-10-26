@@ -62,7 +62,7 @@ body {
   background: #fff;
   color: #000;
   opacity: 0.85;
-  height: 50px;
+  height: 60px;
   z-index: 12;
 }
 
@@ -379,6 +379,12 @@ body {
   background: rgb(226, 226, 226);
 }
 
+.form-submit-btn {
+  outline: 0;
+  border: 0;
+  background: none;
+}
+
 .contact-container {
   display: flex;
   background: #fff;
@@ -386,18 +392,20 @@ body {
 
 .contact-img {
   width: 50%;
+  border-radius: 8px 0 0 8px;
 }
 
 .contact-img img {
   display: block;
-  height: 400px;
+  height: 450px;
   width: 100%;
   object-position: center;
   object-fit: cover;
+  border-radius: 8px 0 0 8px;
 }
 
 .form-container {
-  padding: 1rem;
+  padding: 1.5rem;
   width: 50%;
   margin: auto;
 }
@@ -579,8 +587,8 @@ body {
     font-size: 65%;
   }
 
-  .navbar .menu-items li{
-      font-size: 1.6rem;
+  .navbar .menu-items li {
+    font-size: 1.6rem;
   }
 
   .testimonial-container {
@@ -604,11 +612,13 @@ body {
   .contact-container {
     display: flex;
     flex-direction: column;
+    border-radius: 8px;
   }
 
   .contact-img {
     width: 90%;
     margin: 3rem auto;
+    border-radius: 8px 0 0 8px;
   }
 
   .logo {
@@ -639,4 +649,18 @@ body {
   .showcase-area {
     height: 50vmax;
   }
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgb(185, 187, 184);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: rgba(34, 121, 71, 0.527);
 }
