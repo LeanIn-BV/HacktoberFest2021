@@ -5,4 +5,4 @@ Write an SQL query to print details of the Workers whose FIRST_NAME ends with â€
 # Solution
 
 SELECT * FROM Worker
-WHERE FIRST_NAME LIKE ('_____h');
+WHERE FIRST_NAME LIKE '_____h' ;
