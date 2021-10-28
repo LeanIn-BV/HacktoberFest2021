@@ -1,9 +1,9 @@
-SELECT * FROM Employee WHERE sal = 
+SELECT * FROM table WHERE salary = 
          (
-            SELECT MIN(sal) FROM Employee 
-            WHERE  sal IN (
+            SELECT MIN(salary) FROM table 
+            WHERE  salary IN (
                                  SELECT DISTINCT TOP N
-                                     sal FROM Employee 
-                                         ORDER BY sal DESC
+                                     salary FROM table 
+                                         ORDER BY salary DESC
                              )
         )
