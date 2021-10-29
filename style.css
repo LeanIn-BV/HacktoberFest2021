@@ -83,6 +83,7 @@ body {
   margin-left: 1.5rem;
   margin-bottom: 0.5rem;
   font-size: 1.2rem;
+  padding: 0 15px;
 }
 
 .menu-items a {
@@ -382,6 +383,8 @@ body {
 .contact-container {
   display: flex;
   background: #fff;
+  border:none;
+  border-radius: 20px;
 }
 
 .contact-img {
@@ -394,6 +397,8 @@ body {
   width: 100%;
   object-position: center;
   object-fit: cover;
+  border:none;
+  border-radius: 20px;
 }
 
 .form-container {
